@@ -5,7 +5,7 @@
     <br>You are required to create an account, because the app saves your MVP timers and your custom MVPs.
     <br>Your E-Mail address is stored in Google's Firebase (Dublin, Ireland / EU Location), so that you can reset your password in case you forget it.
     <br>Your address will not be used for spam/marketing or anything alike.
-    <br>Should you have any questions/doubts regarding what's going on in the code, please check my Github repo. This is an open source project.
+    <br>Should you have any questions/doubts regarding what's going on in the code, please check my <a href="https://github.com/bblacc/ro_mvp_tracker">Github repo</a>. This is an open source project.
 </p>
 <p>
     If you have any questions or if you would like to delete your account, please reach out to me via mvp@rsce.io.
