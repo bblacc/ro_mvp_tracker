@@ -1,0 +1,323 @@
+[
+    {
+      "Name": "Amon Ra",
+      "Map": "moc_pryd06",
+      "Coords": "100, 100",
+      "Spawntime": 60,
+      "Offtime": 10,
+      "Death": null,
+      "img_url": "amon.gif"},
+    {
+      "Name": "Bacsojin",
+      "Map": "lou_dun03",
+      "Coords": "",
+      "Spawntime": 127,
+      "Offtime": 10,
+      "Death": null,
+      "img_url": "bacso.gif"},
+    {
+      "Name": "Baphomet",
+      "Map": "prt_maze03",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "bapho.gif"},
+    {
+      "Name": "Boitata",
+      "Map": "bra_dun02",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "boitata.gif"},
+    {
+      "Name": "Dark Lord",
+      "Map": "gl_chyard",
+      "Coords": "",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "darklord.gif"},
+    {
+      "Name": "Detale",
+      "Map": "abyss_03",
+      "Coords": "",
+      "Spawntime": 180,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "detale.gif"},
+    {
+      "Name": "Doppelganger",
+      "Map": "gef_dun02",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "doppel.gif"},
+    {
+      "Name": "Dracula",
+      "Map": "gef_dun01",
+      "Coords": "",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "dracula.gif"},
+    {
+      "Name": "Drake",
+      "Map": "treasure02",
+      "Coords": "100, 150",
+      "Spawntime": 12,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "drake.gif"},
+    {
+      "Name": "Eddga",
+      "Map": "pay_fild10",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+    "img_url": "eddga.gif"},
+    {
+      "Name": "Evil Snake Lord",
+      "Map": "gon_dun03",
+      "Coords": "",
+      "Spawntime": 94,
+      "Offtime": 10
+    , "Death": null,
+    "img_url": "esl.gif"},
+    {
+      "Name": "Fallen Bishop Hibram",
+      "Map": "abbey02",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+    "img_url": "fbh.gif"},
+    {
+      "Name": "Garm",
+      "Map": "xmas_fild01",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+    "img_url": "garm.gif"},
+    {
+      "Name": "Gloom Under Night",
+      "Map": "ra_san05",
+      "Coords": "",
+      "Spawntime": 300,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "gloom.gif"},
+    {
+      "Name": "Golden Thief Bug",
+      "Map": "prt_sewb4",
+      "Coords": "",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+    "img_url": "gtb.gif"},
+    {
+      "Name": "Goldring Boss",
+      "Map": "alt_fild03",
+      "Coords": "",
+      "Spawntime": 480,
+      "Offtime": 10
+    , "Death": null,
+    "img_url": "na.png"},
+    {
+      "Name": "Gopinich",
+      "Map": "mosk_dun03",
+      "Coords": "200, 200",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "gopinich.gif"},
+    {
+      "Name": "Ifrit",
+      "Map": "thor_v03",
+      "Coords": "",
+      "Spawntime": 660,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "ifrit.gif"},
+    {
+      "Name": "Incantation Samurai",
+      "Map": "ama_dun03",
+      "Coords": "",
+      "Spawntime": 91,
+      "Offtime": 10
+    , "Death": null,
+      "img_url": "inca.gif"},
+    {
+      "Name": "Kiel D-01",
+      "Map": "kh_dun02",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 60
+    , "Death": null,
+  "img_url": "kiel.gif"},
+    {
+      "Name": "Stormy Knight",
+      "Map": "xmas_dun02",
+      "Coords": "",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "stormy.gif"},
+    {
+      "Name": "Kraken",
+      "Map": "iz_dun05",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 30
+    , "Death": null,
+  "img_url": "kraken.gif"},
+    {
+      "Name": "Lady Tanee",
+      "Map": "ayo_dun02",
+      "Coords": "",
+      "Spawntime": 420,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "tanee.gif"},
+    {
+      "Name": "Leak",
+      "Map": "dew_dun01",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 0
+    , "Death": null,
+  "img_url": "leak.gif"},
+    {
+      "Name": "Lord Of Death",
+      "Map": "niflheim",
+      "Coords": "",
+      "Spawntime": 131,
+      "Offtime": 0
+    , "Death": null
+  ,"img_url": "lod.gif"},
+    {
+      "Name": "Maya",
+      "Map": "anthell02",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "maya.gif"},
+    {
+      "Name": "Mistress",
+      "Map": "mjolnir_04",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "mistress.gif"},
+    {
+      "Name": "Moonlight Flower",
+      "Map": "pay_dun04",
+      "Coords": "120, 110",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "moonie.gif"},
+    {
+      "Name": "Orc Hero",
+      "Map": "gef_fild03",
+      "Coords": "",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "oh.gif"},
+    {
+      "Name": "Ort Lord",
+      "Map": "gef_fild03",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "ol.gif"},
+    {
+      "Name": "Osiris",
+      "Map": "moc_pryd04",
+      "Coords": "",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "osiris.gif"},
+    {
+      "Name": "Pharaoh",
+      "Map": "in_sphinx5",
+      "Coords": "",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "pharaoh.gif"},
+    {
+      "Name": "Phreeoni",
+      "Map": "moc_fild17",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "phreeoni.gif"},
+    {
+      "Name": "RSX 0806",
+      "Map": "ein_dun02",
+      "Coords": "",
+      "Spawntime": 125,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "rsx.gif"},
+    {
+      "Name": "Tao Gunka",
+      "Map": "beach_dun",
+      "Coords": "",
+      "Spawntime": 300,
+      "Offtime": 10
+    , "Death": null,
+    "img_url": "tao.gif"},
+    {
+      "Name": "Turtle General",
+      "Map": "tur_dun04",
+      "Coords": "100, 100",
+      "Spawntime": 60,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "tgen.gif"},
+    {
+      "Name": "Valkyrie Randgris",
+      "Map": "odin_tem03",
+      "Coords": "",
+      "Spawntime": 480,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "vrand.gif"},
+    {
+      "Name": "Vesper",
+      "Map": "jupe_core",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10
+    , "Death": null,
+  "img_url": "vesper.gif"},
+    {
+      "Name": "Wounded Morroc",
+      "Map": "moc_fild22",
+      "Coords": "",
+      "Spawntime": 720,
+      "Offtime": 120
+    , "Death": null,
+  "img_url": "moroc.gif"},
+    {
+      "Name": "Ygnizem / Egnigem Cenia",
+      "Map": "lhz_dun02",
+      "Coords": "",
+      "Spawntime": 120,
+      "Offtime": 10,
+      "Death": null,
+      "img_url": "egnigem.gif"
+    }
+   ]
