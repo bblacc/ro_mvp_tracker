@@ -31,7 +31,7 @@
       <v-col cols="12">
     <!--   <v-btn text @click="resetTimers()">Reset Timers</v-btn> -->
     <!--    <v-btn text @click="runTimer()">Update Timers</v-btn> -->
-    <!--   Name {{userProfile.name}} | uid {{currentUser.uid}} :) -->
+    How's your day, {{userProfile.name}}? :)
       </v-col>
     </v-row>
     <v-row>
@@ -192,13 +192,13 @@
                         v-model.trim="mvp.Offtime"
                         placeholder="10"
                       ></v-text-field>
-                      <v-text-field
+<!--                       <v-text-field
                         type="text"
                         required
                         label="MVP Image URL"
                         v-model.trim="mvp.img_url"
                         placeholder="xyz.com/MVP_Picture.jpeg"
-                      ></v-text-field>
+                      ></v-text-field> -->
                       <v-btn
                         :disabled="mvp.Name && mvp.Map && mvp.Offtime && mvp.Spawntime == ''"
                         @click="createMVP"
@@ -406,9 +406,9 @@ export default {
           Name: this.mvp.Name,
           Map:  this.mvp.Map,
           Offtime: this.mvp.Offtime,
-          Coordinates: (this.mvp.Coordinates != undefined) ? this.mvp.Coordiantes : "",
+          Coordinates: (this.mvp.Coordinates !== undefined) ? this.mvp.Coordinates : "",
           Spawntime: this.mvp.Spawntime,
-          img_url: (this.mvp.img_url != undefined) ? this.mvp.img_url : ""
+          img_url: (this.mvp.img_url !== undefined) ? this.mvp.img_url : ""
         })
         .then(res => {
           this.mvp.ref = res.id;
